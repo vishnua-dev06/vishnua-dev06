@@ -14,9 +14,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vishnuu123pl&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/vishnuu123pl?style=for-the-badge&logo=github&color=238636&label=FOLLOWERS)](https://github.com/vishnuu123pl?tab=followers)
-[![Repos](https://img.shields.io/badge/REPOS-67-f0883e?style=for-the-badge&logo=github)](https://github.com/vishnuu123pl?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=vishnua-dev06&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/vishnua-dev06?style=for-the-badge&logo=github&color=238636&label=FOLLOWERS)](https://github.com/vishnua-dev06?tab=followers)
+[![Repos](https://img.shields.io/badge/REPOS-67-f0883e?style=for-the-badge&logo=github)](https://github.com/vishnua-dev06?tab=repositories)
 
 </div>
 
@@ -156,15 +156,15 @@ Browser-based 2D puppet animation tool built for the **Mulearn Penguin Challenge
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vishnuu123pl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&rank_icon=github" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vishnua-dev06&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&rank_icon=github" />
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuu123pl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnua-dev06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vishnuu123pl&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
+<img src="https://streak-stats.demolab.com?user=vishnua-dev06&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
 
 </div>
 
@@ -175,7 +175,7 @@ Browser-based 2D puppet animation tool built for the **Mulearn Penguin Challenge
 <div align="center">
 
 <!-- Using flat theme which renders reliably -->
-<img src="https://github-profile-trophy.vercel.app/?username=vishnuu123pl&theme=flat&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Commit,Followers,Repositories,PullRequest,Issues,MultiLanguage" />
+<img src="https://github-profile-trophy.vercel.app/?username=vishnua-dev06&theme=flat&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Commit,Followers,Repositories,PullRequest,Issues,MultiLanguage" />
 
 </div>
 
@@ -185,7 +185,7 @@ Browser-based 2D puppet animation tool built for the **Mulearn Penguin Challenge
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuu123pl&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnua-dev06&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" />
 
 </div>
 
@@ -196,7 +196,7 @@ Browser-based 2D puppet animation tool built for the **Mulearn Penguin Challenge
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40vis__hnu__-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vis_hnu_)
-[![GitHub](https://img.shields.io/badge/GitHub-vishnuu123pl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnuu123pl)
+[![GitHub](https://img.shields.io/badge/GitHub-vishnua-dev06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnua-dev06)
 
 <br/>
 
