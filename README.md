@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vishnu%20A&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Telegram%20Bot%20Builder%20%7C%20ECE%20Student&descAlignY=58&descColor=ffffffcc&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vishnu%20&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Telegram%20Bot%20Builder%20%7C%20ECE%20Student&descAlignY=58&descColor=ffffffcc&animation=fadeIn" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ```python
 class Vishnu:
-    name        = "Vishnu A"
+    name        = "Vishnu"
     age         = 19
     location    = "Palakkad, Kerala, India 🇮🇳"
     education   = "B.Tech Electronics & Communication Engineering"
