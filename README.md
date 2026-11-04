@@ -31,7 +31,7 @@ class Vishnu:
     location    = "Palakkad, Kerala, India 🇮🇳"
     education   = "B.Tech Electronics & Communication Engineering"
     college     = "NSS Engineering College, Palakkad"
-    year        = "First Year (2025 Batch)"
+    year        = "second Year (2025 Batch)"
     telegram    = 0
     language    = "Malayalam / English / Hindi"
 
