@@ -1,228 +1,170 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vishnu%20&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Telegram%20Bot%20Builder%20%7C%20ECE%20Student&descAlignY=58&descColor=ffffffcc&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Vishnu%20A&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Bot%20Architect%20%7C%20ECE%20Student&descAlignY=60&descColor=ffffffcc&animation=fadeIn" width="100%" alt="Vishnu A Header" />
 
-</div>
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=800&color=388BFD&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Building+real+tools+for+real+people+%F0%9F%9A%80;Python+%7C+Telegram+Bots+%7C+PostgreSQL;ECE+Student+%40+NSS+Engineering+College;print(%22Ellavarodum+Sneham+mathram+%E2%9D%A4%EF%B8%8F%22))](https://github.com/vishnua-dev06)
 
-<div align="center">
-
-<!-- Typing SVG — using DemoLab (most reliable, widely used) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=550&height=45&lines=Building+real+tools+for+real+people+%F0%9F%94%A7;Python+%7C+Telegram+Bots+%7C+PostgreSQL;ECE+Student+%40+NSS+Engineering+College;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=vishnua-dev06&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/vishnua-dev06?style=for-the-badge&logo=github&color=238636&label=FOLLOWERS)](https://github.com/vishnua-dev06?tab=followers)
-[![Repos](https://img.shields.io/badge/REPOS-67-f0883e?style=for-the-badge&logo=github)](https://github.com/vishnua-dev06?tab=repositories)
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishnua-dev06&style=flat-square&color=0969da&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/vishnua-dev06?tab=followers"><img src="https://img.shields.io/github/followers/vishnua-dev06?style=flat-square&logo=github&color=238636&label=FOLLOWERS" alt="Followers" /></a>
+  <a href="https://github.com/vishnua-dev06?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvishnua-dev06&query=%24.public_repos&label=REPOSITORIES&color=f0883e&logo=github&style=flat-square" alt="Repositories" /></a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 def about_me() -> Developer:
 
 ```python
-class Vishnu:
-    name        = "Vishnu"
-    age         = 20
-    location    = "Palakkad, Kerala, India 🇮🇳"
-    education   = "B.Tech Electronics & Communication Engineering"
-    college     = "NSS Engineering College, Palakkad"
-    year        = "second Year (2025 Batch)"
-    telegram    = 0
-    language    = "Malayalam / English / Hindi"
+# vishnu.py — Developer Specification
+from dataclasses import dataclass, field
+from typing import List
 
-    builds      = [
-        "Telegram bots that serve thousands of KTU students",
-        "Clean web interfaces with modern UI/UX",
-        "Open-source tools for the Kerala student community",
-    ]
+@dataclass
+class Developer:
+    name: str = "Vishnu A"
+    role: str = "Python Developer & Bot Architect"
+    location: str = "Palakkad, Kerala, India 🇮🇳"
+    college: str = "NSS Engineering College, Palakkad"
+    discipline: str = "Electronics & Communication Engineering"
+    motto: str = "Ellavarodum Sneham mathram ❤️"  # "Only love to everyone"
 
-    stack       = {
-        "languages" : ["Python", "TypeScript", "HTML", "CSS", "JavaScript", "C", "C++"],
-        "bots"      : ["Pyrogram", "python-telegram-bot"],
-        "database"  : ["PostgreSQL", "asyncpg", "Supabase", "Mongoodb"],
-        "deploy"    : ["Docker", "Railway", "Koyeb", "Render", "Fly.io", "Heroku"],
-        "tools"     : ["Git", "VS Code", "Linux"],
-    }
-
-    fun_fact    = "Most active on Telegram 🔥 — building while learning"
+    focus_areas: List[str] = field(default_factory=lambda: [
+        "Building scalable Telegram bots serving thousands of students",
+        "Developing async Python microservices, web scrapers & automation",
+        "Bridging embedded systems (ECE/Robotics) with modern software",
+        "Contributing to Kerala's tech community (Mulearn / FOSS)",
+    ])
 ```
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ import tech_stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="left">
 
-### 🎓 KTU Study Bot V3
-[![Repo](https://img.shields.io/badge/View_Repo-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnuu123pl/KTU-Study-Bot-V3)
-![Stars](https://img.shields.io/github/stars/vishnuu123pl/KTU-Study-Bot-V3?style=flat-square&color=f0883e)
+**Languages**  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-A production-grade Telegram bot serving KTU B.Tech students across Kerala. Get notes, PYQs, model papers & video resources organised by **branch × semester × scheme**. Backed by **PostgreSQL**, featuring trending analytics, smart search, admin upload panel & broadcast system.
+**Bots & Automation**  
+[![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://docs.pyrogram.org/)
+[![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://core.telegram.org/bots)
+[![Asyncio](https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Databases & Cloud**  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![asyncpg](https://img.shields.io/badge/asyncpg-336791?style=flat-square&logo=postgresql&logoColor=white)](https://magicstack.github.io/asyncpg/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://railway.app/)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://render.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 
-</td>
-<td width="50%" valign="top">
-
-### 💳 V.Pay Webpage V2
-[![Repo](https://img.shields.io/badge/View_Repo-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnuu123pl/V.Pay-WebPage-V2)
-![Stars](https://img.shields.io/github/stars/vishnuu123pl/V.Pay-WebPage-V2?style=flat-square&color=f0883e)
-
-A sleek private payment & donation page with QR code support and a clean modern interface. Designed for simplicity — personal payment links that just work.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎭 Ammu Web
-[![Repo](https://img.shields.io/badge/View_Repo-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnuu123pl/Ammu-Web)
-![Stars](https://img.shields.io/github/stars/vishnuu123pl/Ammu-Web?style=flat-square&color=f0883e)
-
-A TypeScript web project built with care, focusing on type safety and modern web standards.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 2D Puppet Animation
-[![Repo](https://img.shields.io/badge/View_Repo-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnuu123pl/2D-puppet-animation-software-2026)
-![Stars](https://img.shields.io/github/stars/vishnuu123pl/2D-puppet-animation-software-2026?style=flat-square&color=f0883e)
-
-Browser-based 2D puppet animation tool built for the **Mulearn Penguin Challenge**. Supports character rigging and frame-by-frame animation directly in the browser.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Bots & Backend**
-
-![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![asyncpg](https://img.shields.io/badge/asyncpg-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Database & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+**Hardware & Developer Tools**  
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 def featured_projects():
+
+### 🎓 [KTU Study Bot V3](https://github.com/vishnua-dev06/KTU-Study-Bot-V3)
+> **Production Telegram bot serving engineering students across APJ Abdul Kalam Technological University (KTU), Kerala.**
+- 📚 Delivers notes, previous year question papers (PYQs), model questions, and curated video resources indexed by **Scheme × Branch × Semester**.
+- ⚡ High-throughput asynchronous backend powered by **Python**, **Pyrogram**, **PostgreSQL**, and **asyncpg**.
+- 🐳 Features smart searching, broadcast messaging, an admin upload system, and containerized deployment with **Docker**.
+
+`Python` • `Pyrogram` • `PostgreSQL` • `asyncpg` • `Docker`
+
+<br/>
+
+### 🎬 [OTT Telegram Notifier](https://github.com/vishnua-dev06/ott-telegram-notifier)
+> **Automated media release tracker and intelligent watch-link crawler.**
+- 🔔 Monitors streaming platforms for new episodes and releases in real time.
+- 🔍 Implements multi-engine web search crawlers and sitemap parsers to resolve and verify exact episode links.
+- 🛡️ Resilient deployment design with rolling transitions, error suppression, and automatic cache validation.
+
+`Python` • `Web Crawling` • `Automation` • `Telegram Bot API`
+
+<br/>
+
+### 💳 [V.Pay Webpage V2](https://github.com/vishnua-dev06/V.Pay-WebPage-V2)
+> **Personal payment and donation portal designed for quick QR payments.**
+- 📱 Clean, responsive interface optimized for mobile and desktop screens.
+- ⚡ Instant UPI and dynamic QR routing without third-party redirection friction.
+
+`HTML5` • `CSS3` • `JavaScript` • `UI/UX`
+
+<br/>
+
+### 🎨 [2D Puppet Animation Software](https://github.com/vishnua-dev06/2D-puppet-animation-software-2026)
+> **Browser-based puppet rigging and animation software developed for the Mulearn Penguin Challenge.**
+- 🦴 Interactive 2D character rigging and joint management right in the browser.
+- 🎞️ Frame-by-frame timeline playback with zero desktop installation required.
+
+`JavaScript` • `HTML5 Canvas` • `FOSS / Mulearn`
+
+---
+
+## 📊 sys.monitor.get_stats()
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vishnua-dev06&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&rank_icon=github" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnua-dev06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
+<!-- GitHub Streak Stats (Transparent theme looks great in both Light and Dark modes) -->
+<a href="https://github.com/vishnua-dev06">
+  <img src="https://streak-stats.demolab.com?user=vishnua-dev06&theme=transparent&hide_border=true&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</a>
 
 </div>
 
+<br/>
+
+### 📈 git.log.contributions()
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vishnua-dev06&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
+<!-- Dynamic SVG Contribution Calendar -->
+<a href="https://github.com/vishnua-dev06">
+  <img src="https://ghchart.rshah.org/58a6ff/vishnua-dev06" alt="Vishnu's GitHub Contribution Chart" width="100%" />
+</a>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- Using flat theme which renders reliably -->
-<img src="https://github-profile-trophy.vercel.app/?username=vishnua-dev06&theme=flat&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Commit,Followers,Repositories,PullRequest,Issues,MultiLanguage" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnua-dev06&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
+## 🤝 async def connect():
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40vis__hnu__-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vis_hnu_)
-[![GitHub](https://img.shields.io/badge/GitHub-vishnua-dev06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnua-dev06)
+[![GitHub](https://img.shields.io/badge/GitHub-vishnua--dev06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishnua-dev06)
 
 <br/>
 
-📍 **NSS Engineering College, Palakkad, Kerala**
+📍 **NSS Engineering College, Palakkad, Kerala, India**  
+💬 Always excited to collaborate on **Telegram bots**, **open-source tools**, or **ECE & IoT projects**!
 
-💬 Always open to collaborate on bots, open-source tools, or any cool project ideas!
+<br/>
 
-</div>
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="Footer" />
 
----
-
-## 🌱 Currently
-
-- 📡 Studying **Electronics & Communication Engineering** at NSS Engineering College
-- 🤖 Actively maintaining and improving the **KTU Study Bot** for Kerala students
-- 🌐 Building web projects and sharpening TypeScript skills
-- 🤝 Contributing to the Kerala open-source community through **Mulearn / FOSS**
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
-
-*"Build things that actually help people."*
-
-⭐ **Star any repo that helped you — it means a lot!**
+*"Build things that actually help people."*  
+❤️ **Ellavarodum Sneham mathram**
 
 </div>
