@@ -36,7 +36,7 @@ class Developer:
     focus_areas: List[str] = field(default_factory=lambda: [
         "Building scalable Telegram bots serving thousands of students",
         "Developing async Python microservices, web scrapers & automation",
-        "Emmbedded system and Designing"
+        "Embedded system and Designing"
         "Bridging embedded systems (ECE/Robotics) with modern software",
     ])
 ```
